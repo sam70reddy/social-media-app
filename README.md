@@ -1,5 +1,3 @@
-# Tasveerey 
-Explore it here: https://tasveerey.onrender.com/
 
 ### Tech Stack Used
 
